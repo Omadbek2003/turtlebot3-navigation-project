@@ -13,8 +13,8 @@ Autonomous navigation simulation for TurtleBot3 in Gazebo, using ROS 1 Noetic, `
 - **ROS:** Noetic
 - **Simulator:** Gazebo 11
 - **Navigation:** `move_base` (Nav Stack) + `actionlib`
-- **Mapping:** SLAM (gmapping / cartographer)
-- **Robot:** TurtleBot3 (Burger / Waffle)
+- **Mapping:** SLAM (gmapping)
+- **Robot:** TurtleBot3 (Burger)
 - **Language:** Python
 
 ## Repository contents
