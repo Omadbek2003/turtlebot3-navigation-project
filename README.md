@@ -71,45 +71,4 @@ QA Engineer @ DOMO · Founder @ Hairoom
 ## License
 
 MIT
-cat > .gitignore << 'EOF'
-# ROS 1 / catkin build artifacts (in case anyone clones into a workspace)
 
-build/
-devel/
-logs/
-.catkin_tools/
-.catkin_workspace
-
-# Python
-
-__pycache__/
-*.py[cod]
-*$py.class
-*.egg-info/
-
-# IDE / editor
-
-.vscode/
-.idea/
-*.swp
-*~
-.DS_Store
-
-# Gazebo
-
-.gazebo/
-*.world.bak
-
-# ROS bag files
-
-*.bag
-
-# Old archive
-
-turtlebot3_navigation_project.zip
-
-# Secrets
-
-*.pem
-*.key
-.env
