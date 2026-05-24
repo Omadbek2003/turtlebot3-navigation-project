@@ -65,7 +65,7 @@ rosrun turtlebot3_navigation_project cd_project.py
 ## Author
 
 **Omadbek Teshaboyev**
-QA Engineer @ DOMO · Founder @ Hairoom
+QA Engineer @ DOMO · 
 [Telegram QA channel](https://t.me/omadbekqawork)
 
 ## License
